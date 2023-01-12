@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center-banner-container {
+    width: 1200px;
+    margin: 100px auto;
+}
+
+.profile img {
+    width: 237px;
+}
+
+.name {
+    font-size: 80px;
+    color: #fff;
+    position: relative;
+    top: -117px;
+    left: 76px;
+}
+
+.date {
+    font-size: 48px;
+    color: #fff;
+}
+
+.content-banner-sec {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.heading h1 {
+    font-size: 58px;
+    color: #fff;
+}
+
+.heading p {
+    font-size: 17px;
+    line-height: 38px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.biogrphy-area {
+    padding: 12px 0;
+    color: #fff;
+}
+
+.biography-text h3 {
+    font-size: 44px;
+    line-height: 173px;
+}
+
+.biography-text ul {
+    line-height: 33px;
+}
+
+.readmore-sec p {
+    color: #fff;
+    padding: 101px 0px 0px 0px;
+    font-size: 27px;
+}
